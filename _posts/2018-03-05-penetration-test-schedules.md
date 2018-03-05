@@ -138,7 +138,7 @@ tags: [pentest]
 		<td></td>
     </tr>
 	<tr>
-		<td rowspan="3">扫描</td>
+		<td rowspan="3">抓包</td>
 		<td>burpsuite</td> 
         <td></td> 
 		<td></td>
